@@ -1,48 +1,56 @@
 # Software Code Standard Improvement Automation
 
-This repository contains a research paper titled "Software Code Standard Improvement Automation", co-authored by Kaustubh Hemang Pandya, Nikunjkumar Khandar, and Priyank Nilesh Dabhi from Bishop’s University, Canada.
+This repository presents a student research project focused on automating code standard enforcement to improve consistency, readability, and overall software quality.
 
-## 📄 Paper Overview
+## 📚 About the Project
 
-This study investigates the use of static code analysis tools within Continuous Integration (CI) pipelines, specifically Jenkins, in open-source projects hosted on GitHub and Bitbucket.
+Modern software projects demand clean, consistent code. Manual enforcement of coding standards is error-prone and time-consuming. This project introduces an automated enforcement system using static analysis tools integrated into CI/CD pipelines (like Jenkins) to identify code quality issues early and enforce consistency automatically.
 
-### 🔍 Key Objectives
+### 👨‍💻 Contributors
 
-- Identify which static analysis tools are commonly used in CI pipelines.
-- Understand how these tools are configured.
-- Analyze the types of issues (like build failures and warnings) these tools detect.
-- Examine how developers respond to and resolve those issues.
+- Kaustubh Hemang Pandya
+- Guided by: Prof. Yasir Malik  
+- Department of Computer Science, Bishop’s University, Sherbrooke, Canada
 
-### 🛠 Tools Explored
+## 🎯 Objectives
 
-The paper evaluates tools such as:
-- **Checkstyle** (Java)
-- **Pylint, Pyflakes, Bandit, Safety, Pyupgrade** (Python)
-- **CPPLint** (C++)
+- Build an automated code standard enforcement system
+- Integrate static code analysis tools into the CI pipeline
+- Reduce manual effort, errors, and debugging time
+- Improve collaboration through consistent coding practices
 
-### 📊 Main Findings
+## 🧰 Tools & Technologies
 
-- Most build failures stem from coding standard violations.
-- Projects often configure tools to detect issues without breaking the build.
-- Developers actively fix reported issues rather than bypass them.
+- **Static Analysis Tools:** Checkstyle, Pylint, Bandit, CPPLint, Pyflakes, Safety, Pyupgrade  
+- **CI/CD Tools:** Jenkins, GitHub Actions  
+- **Languages Covered:** Python, Java, C++
 
-### 📈 Value of the Study
+## 📝 Files Included
 
-The insights contribute to:
-- Better CI practices
-- Higher code quality assurance
-- More efficient integration of static analysis tools in software development workflows
+| File Name | Description |
+|-----------|-------------|
+| `IEEE_Report.pdf` | Formal research paper in IEEE format. |
+| `Software Code Standard Improvement Automation.pdf` | High-level report including methodology, architecture, and deliverables. |
+| `Software Code Standard Improvement Automation.pptx` | Presentation slides for project defense or showcase. |
 
-## 📁 Contents
+## 🚀 Highlights
 
-- `IEEE_Report.pdf`: The full research paper in IEEE format.
+- Analyzed real open-source repositories using Jenkins CI
+- Identified the most common causes of build failures due to code violations
+- Demonstrated how automation leads to quicker issue resolution and better code hygiene
+- Explored integration strategies for real-world development workflows
+
+## 📈 Learning Outcomes
+
+- Hands-on experience with Agile development and CI pipelines  
+- Deep understanding of static analysis tools and code quality practices  
+- Improved skills in documentation, research, and presentation  
+- Practical exposure to modern DevOps workflows
 
 ## 📬 Contact
 
-For questions or collaboration:
+For questions, collaboration, or feedback:  
+**Kaustubh Pandya** — [khpandya1181@gmail.com](mailto:khpandya1181@gmail.com)
 
-- Kaustubh Pandya — [khpandya1181@gmail.com](mailto:khpandya1181@gmail.com)
 
----
-
-> _This work was completed as part of the Department of Computer Science at Bishop’s University, Sherbrooke, Canada._
+> _Submitted as part of final academic coursework in Computer Science at Bishop’s University, Canada.
