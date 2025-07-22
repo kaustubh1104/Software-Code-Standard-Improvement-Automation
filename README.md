@@ -1,10 +1,10 @@
 # Software Code Standard Improvement Automation
 
-This repository contains a research paper titled **"Software Code Standard Improvement Automation"**, co-authored by Kaustubh Hemang Pandya, Nikunjkumar Khandar, and Priyank Nilesh Dabhi from Bishop’s University, Canada.
+This repository contains a research paper titled "Software Code Standard Improvement Automation", co-authored by Kaustubh Hemang Pandya, Nikunjkumar Khandar, and Priyank Nilesh Dabhi from Bishop’s University, Canada.
 
 ## 📄 Paper Overview
 
-This study investigates the use of **static code analysis tools** within **Continuous Integration (CI)** pipelines, specifically Jenkins, in open-source projects hosted on GitHub and Bitbucket.
+This study investigates the use of static code analysis tools within Continuous Integration (CI) pipelines, specifically Jenkins, in open-source projects hosted on GitHub and Bitbucket.
 
 ### 🔍 Key Objectives
 
@@ -41,7 +41,7 @@ The insights contribute to:
 
 For questions or collaboration:
 
-- Kaustubh Pandya — [kpandya22@ubishop.ca](mailto:kpandya22@ubishop.ca)
+- Kaustubh Pandya — [khpandya1181@gmail.com](mailto:khpandya1181@gmail.com)
 
 ---
 
