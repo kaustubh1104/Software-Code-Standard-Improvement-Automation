@@ -52,4 +52,3 @@ Modern software projects demand clean, consistent code. Manual enforcement of co
 For questions, collaboration, or feedback:  
 **Kaustubh Pandya** — [khpandya1181@gmail.com](mailto:khpandya1181@gmail.com)
 
-Submitted as part of final academic coursework in Computer Science at Bishop’s University, Canada.
